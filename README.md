@@ -42,9 +42,9 @@
 
 <p dir="rtl">بناء هيكل تنظيمي وتشغيلي لشركة افتراضية، شمل الخدمات والعملاء والأصول والأدوار والمسؤوليات.</p>
 
-<p align="center" dir="rtl"><em>تُضاف لقطة شاشة المهمة هنا</em></p>
-
-<!-- أضف لقطة الشاشة هنا -->
+<p align="center">
+  <img src="assets/screenshots/company-structure.png" alt="لقطة من هيكلة شركة مرصاد التقنية" width="850">
+</p>
 
 <br>
 
@@ -54,9 +54,9 @@
 
 <p dir="rtl">إعداد سياسة تدمج متطلبات الأمن السيبراني في دورة حياة المشاريع والتغييرات التقنية وفق ضوابط <strong>NCA ECC-2:2024</strong>.</p>
 
-<p align="center" dir="rtl"><em>تُضاف لقطة شاشة المهمة هنا</em></p>
-
-<!-- أضف لقطة الشاشة هنا -->
+<p align="center">
+  <img src="assets/screenshots/project-security-policy.png" alt="لقطة من سياسة الأمن السيبراني ضمن إدارة المشاريع" width="850">
+</p>
 
 <br>
 
@@ -66,9 +66,9 @@
 
 <p dir="rtl">تطوير استراتيجية لشركة مرصاد تشمل الرؤية والأهداف، وتحليل الوضع الراهن، ومؤشرات الأداء، وخارطة الطريق ونموذج التشغيل.</p>
 
-<p align="center" dir="rtl"><em>تُضاف لقطة شاشة المهمة هنا</em></p>
-
-<!-- أضف لقطة الشاشة هنا -->
+<p align="center">
+  <img src="assets/screenshots/cybersecurity-strategy.png" alt="لقطة من استراتيجية الأمن السيبراني" width="850">
+</p>
 
 <br>
 
@@ -78,9 +78,9 @@
 
 <p dir="rtl">تقييم حالة تطبيق ضوابط <strong>NCA ECC</strong> وتحديد الفجوات وإجراءات المعالجة والمسؤوليات المستهدفة.</p>
 
-<p align="center" dir="rtl"><em>تُضاف لقطة شاشة المهمة هنا</em></p>
-
-<!-- أضف لقطة الشاشة هنا -->
+<p align="center">
+  <img src="assets/screenshots/governance-assessment.png" alt="لقطة من تقييم ضوابط الحوكمة" width="850">
+</p>
 
 <br>
 
@@ -90,9 +90,12 @@
 
 <p dir="rtl">تحديد الأصول والمخاطر، وتقييم الاحتمالية والأثر، وتوثيق المعالجات والضوابط والمخاطر المتبقية في سجل موحد.</p>
 
-<p align="center" dir="rtl"><em>تُضاف لقطة شاشة المهمة هنا</em></p>
-
-<!-- أضف لقطة الشاشة هنا -->
+<p align="center">
+  <img src="assets/screenshots/risk-assessment-results.png" alt="نتائج تقييم المخاطر" width="850">
+</p>
+<p align="center">
+  <img src="assets/screenshots/risk-register-full.png" alt="سجل المخاطر كاملًا" width="1100">
+</p>
 
 <br>
 
