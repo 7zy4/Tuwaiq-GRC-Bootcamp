@@ -79,7 +79,7 @@
 <p dir="rtl">تقييم حالة تطبيق ضوابط <strong>NCA ECC</strong> وتحديد الفجوات وإجراءات المعالجة والمسؤوليات المستهدفة.</p>
 
 <p align="center">
-  <img src="https://github.com/7zy4/Tuwaiq-GRC-Bootcamp/raw/refs/heads/main/assets/screenshots/governance-assessment.png" alt="لقطة من تقييم ضوابط الحوكمة" width="850">
+  <img src="assets/screenshots/governance-assessment.png" alt="لقطة من تقييم ضوابط الحوكمة" width="850">
 </p>
 
 <br>
